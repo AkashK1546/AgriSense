@@ -31,7 +31,7 @@
 
 ## 📂 Repository Structure 
 AgriSense/
-
+```
 │── proposal/ # Proposal & documentation
 │ └── AgriSense_Proposal.pdf
 │── src/
@@ -43,7 +43,7 @@ AgriSense/
 │── requirements.txt # Dependencies
 │── LICENSE
 │── README.md
-
+```
 ---
 
 ## 📊 Expected Impact  
