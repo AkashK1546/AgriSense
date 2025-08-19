@@ -30,8 +30,8 @@
 ---
 
 ## 📂 Repository Structure 
-AgriSense/
 ```
+AgriSense/
 │── proposal/ # Proposal & documentation
 │ └── AgriSense_Proposal.pdf
 │── src/
