@@ -31,16 +31,27 @@
 
 ## 📂 Repository Structure 
 AgriSense/
+
 │── proposal/ # Proposal & documentation
+
 │ └── AgriSense_Proposal.pdf
+
 │── src/
+
 │ ├── crop_identification/ # Satellite-based crop classification
+
 │ ├── yield_forecasting/ # Short-term prediction models
+
 │ ├── agentic_ai/ # Granite + LangChain advisory system
+
 │── notebooks/ # Jupyter/Colab experiments
+
 │── data/ # Sample datasets / links
+
 │── requirements.txt # Dependencies
+
 │── LICENSE
+
 │── README.md
 
 ---
