@@ -1,16 +1,16 @@
-# 🌱 AgriSense: Satellite-Guided Agentic AI for Smart Farming  
+# 🌱 StellaCrop: Satellite-Guided Agentic AI for Smart Farming  
  Crop Identification, Short-Term Forecasting, and AI-driven Market Advisory using IBM Granite + LangChain
 
-![AgriSense Banner](https://img.shields.io/badge/AI-Granite%20LLM-blue?style=for-the-badge) 
-![AgriSense Banner](https://img.shields.io/badge/Domain-AgriTech-green?style=for-the-badge) 
-![AgriSense Banner](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)  
+![StellaCrop Banner](https://img.shields.io/badge/AI-Granite%20LLM-blue?style=for-the-badge) 
+![StellaCrop Banner](https://img.shields.io/badge/Domain-AgriTech-green?style=for-the-badge) 
+![StellaCrop Banner](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)  
 
 ---
 
 ## 🚀 Overview  
-**AgriSense** is an **AI-powered, satellite-guided decision support system** that combines **real-time crop identification**, **short-term yield forecasting**, and an **Agentic AI market advisory assistant** into one unified platform.  
+**StellaCrop** is an **AI-powered, satellite-guided decision support system** that combines **real-time crop identification**, **short-term yield forecasting**, and an **Agentic AI market advisory assistant** into one unified platform.  
 
-🌍 Designed for **farmers, cooperatives, and policymakers**, AgriSense uses **IBM Granite LLM + LangChain** to bridge the gap between **ground-level farming data** and **market intelligence**.  
+🌍 Designed for **farmers, cooperatives, and policymakers**, StellaCrop uses **IBM Granite LLM + LangChain** to bridge the gap between **ground-level farming data** and **market intelligence**.  
 
 ---
 
@@ -31,9 +31,9 @@
 
 ## 📂 Repository Structure 
 ```
-AgriSense/
+StellaCrop/
 │── proposal/ # Proposal & documentation
-│ └── AgriSense_Proposal.pdf
+│ └── StellaCrop_Proposal.pdf
 │── src/
 │ ├── crop_identification/ # Satellite-based crop classification
 │ ├── yield_forecasting/ # Short-term prediction models
